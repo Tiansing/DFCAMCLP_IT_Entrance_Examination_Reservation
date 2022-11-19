@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'TappsiOnlineOrdering'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBD7B630EAC94881925DAAEF1DCF1934 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CF946DC803F40E0B63F524D673DF27D }}
           package: .
